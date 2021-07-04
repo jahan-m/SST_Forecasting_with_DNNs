@@ -26,6 +26,14 @@ Mean squared error of area-averaged SST forecasting at the North Pacific Ocean, 
 </ol>
 
 ## Code Description
+Before you proceed with this code, the following datasets must be downloaded into your local machine:
+
+<ul>
+  <li><a href="https://www.ncdc.noaa.gov/cdo-web/">NCDC NOAA</a>: Daily air temperature data for any desired weather station,
+  <li><a href="https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html">PSL NOAA</a>: Daily SST data for any desired range of latitudes and longitudes,
+  <li><a href="http://www.argo.ucsd.edu/">Argo</a>: Monthly SST data for any desired range of latitudes and longitudes.
+</ul>
+
 The proposed ensemble model is implemented using Keras APIs of TensorFlow in Python.
 It follows a multi-service structure, where every service has its own duties to accomplish. In this regard,
 <ul>
