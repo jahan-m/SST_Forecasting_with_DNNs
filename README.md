@@ -48,5 +48,5 @@ It follows a multi-service structure, where every service has its own duties to 
 Please cite this work as follows:
 
 <ul>
-  <li>Mohammad Jahanbakht, Wei Xiang, and Mostafa Rahimi Azghadi, "Sea Surface Temperature Forecasting with Ensemble of Stacked Deep Neural Networks," Submitted to <i>IEEE Geoscience and Remote Sensing Letters</i>, 2021
+  <li>Mohammad Jahanbakht, Wei Xiang, and Mostafa Rahimi Azghadi, "Sea Surface Temperature Forecasting with Ensemble of Stacked Deep Neural Networks," Submitted to <i>IEEE Geoscience and Remote Sensing Letters</i>, 2021.
 </ul>
